@@ -1,0 +1,14 @@
+/* Layout.css */
+body {
+ margin: 0;
+ font-family: 'Arial', sans-serif;
+}
+
+header {
+ background-color: #FF893C;
+ color: white;
+ padding: 16px;
+ text-align: center;
+}
+
+

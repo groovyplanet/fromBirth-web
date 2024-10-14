@@ -1,0 +1,20 @@
+.header {
+    background-color: #FF893C; /* 헤더 배경색 */
+    color: white; /* 글자 색상 */
+    padding: 16px; /* 패딩 */
+    text-align: center; /* 가운데 정렬 */
+    position: relative; /* 위치 설정 */
+}
+
+.header h1 {
+    margin: 0; /* 기본 여백 제거 */
+    font-size: 24px; /* 글자 크기 */
+}
+
+.login-link {
+    color: white; /* 링크 색상 */
+    text-decoration: none; /* 밑줄 제거 */
+    font-weight: bold; /* 글씨 두껍게 */
+    margin-top: 10px; /* 상단 여백 */
+    display: inline-block; /* 블록 형식으로 처리 */
+}

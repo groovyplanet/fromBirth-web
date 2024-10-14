@@ -1,0 +1,35 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    border-top: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+.footer ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer ul li {
+    text-align: center;
+    flex-grow: 1;
+}
+
+.footer ul li.active {
+    color: #f08a24;
+}
+
+.footer ul li i {
+    font-size: 24px;
+}
+
+.footer ul li span {
+    display: block;
+    font-size: 12px;
+    margin-top: 5px;
+}
